@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
+    <title>Categories on ServiceMesher</title>
     <link>https://605001659.github.io/circle/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <description>Recent content in Categories on ServiceMesher</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://605001659.github.io/circle/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://605001659.github.io/circle/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lorem</title>
+      <link>https://605001659.github.io/circle/categories/lorem/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://605001659.github.io/circle/categories/lorem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://605001659.github.io/circle/categories/programming/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://605001659.github.io/circle/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pseudo</title>
+      <link>https://605001659.github.io/circle/categories/pseudo/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://605001659.github.io/circle/categories/pseudo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>starting</title>
+      <link>https://605001659.github.io/circle/categories/starting/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://605001659.github.io/circle/categories/starting/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
